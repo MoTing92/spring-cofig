@@ -1,0 +1,5 @@
+info:
+  profile: dev-yml
+  from: git
+config:
+  type: yml
